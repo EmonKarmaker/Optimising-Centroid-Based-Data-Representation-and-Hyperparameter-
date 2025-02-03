@@ -1,0 +1,214 @@
+1.german_credit_data
+Cross-Validation Accuracy: 1.0
+Cross-Validation Precision: 1.0
+Cross-Validation Recall: 1.0
+
+
+
+
+2.fashion-mnist
+
+
+Cross-Validation Accuracy: 0.8825666666666667-    0.90
+Cross-Validation Precision: 0.8802732990746517-   0.90
+Cross-Validation Recall: 0.8821166666666667-      0.90
+
+
+
+3.titanic
+
+Cross-Validation Accuracy: 0.8372048207896553
+Cross-Validation Precision: 0.8309826702768042
+Cross-Validation Recall: 0.8316866486723997
+
+4.mnist 
+Cross-Validation Accuracy: 0.9646607142857142-0.97
+Cross-Validation Precision: 0.9649946296758032-0.97
+Cross-Validation Recall: 0.9646607142857142-0.97
+Test Accuracy: 0.9659285714285715
+Test Precision: 0.9659787118085993
+Test Recall: 0.9659285714285715
+
+
+
+5.notMNIST_small
+
+
+Cross-Validation Accuracy: 0.9108083566068057
+Cross-Validation Precision: 0.9116420011180416
+Cross-Validation Recall: 0.9111422910012459
+Test Accuracy: 0.9073431241655541
+Test Precision: 0.9077473356959932
+Test Recall: 0.9073431241655541
+
+6.kmnist
+
+Cross-Validation Accuracy: 0.9281333333333333
+Cross-Validation Precision: 0.9292196182990559
+Cross-Validation Recall: 0.9279833333333333
+
+
+7.usps
+
+Cross-Validation Accuracy: 0.9663966431336268
+Cross-Validation Precision: 0.9681894108725994
+Cross-Validation Recall: 0.9655736918854732
+
+
+8.Optical Recognition of Handwritten Digits dataset (UCI) 
+
+Cross-Validation Accuracy: 0.9738412331653883
+Cross-Validation Precision: 0.9741617044703921
+Cross-Validation Recall: 0.972204037097654
+Test Accuracy: 0.9803921568627451
+Test Precision: 0.9805752193657814
+Test Recall: 0.9803921568627451
+
+
+
+9.digitdata
+
+
+Cross-Validation Accuracy: 0.9714697057684862
+Cross-Validation Precision: 0.9725508591028829
+Cross-Validation Recall: 0.9700832365466512
+Test Accuracy: 0.975
+Test Precision: 0.9760169771127217
+Test Recall: 0.975
+
+
+
+
+
+10.breastcancer
+
+
+Cross-Validation Accuracy: 0.9538461538461538
+Cross-Validation Precision: 0.9532556801840666
+Cross-Validation Recall: 0.971990320629159
+Test Accuracy: 0.9649122807017544
+Test Precision: 0.958904109589041
+Test Recall: 0.9859154929577465
+
+
+
+11.typedCSV
+Cross-Validation Accuracy: 0.8650805510844167
+Cross-Validation Precision: 0.8654544087176971
+Cross-Validation Recall: 0.8646042385417161
+Test Accuracy: 0.8747519644416224
+Test Precision: 0.8749452910368523
+Test Recall: 0.8747519644416224
+
+
+
+
+12.wine
+
+
+Cross-Validation Accuracy: 0.9716748768472907
+Cross-Validation Precision: 0.9694276030482927
+Cross-Validation Recall: 0.9785714285714286
+Test Accuracy: 1.0
+Test Precision: 1.0
+Test Recall: 1.0
+
+
+
+13.mushroom
+
+
+Cross-Validation Accuracy: 1.0
+Cross-Validation Precision: 1.0
+Cross-Validation Recall: 1.0
+Test Accuracy: 1.0
+Test Precision: 1.0
+Test Recall: 1.0
+
+
+
+
+
+
+14.spambase
+
+Cross-Validation Accuracy: 0.9451086956521738
+Cross-Validation Precision: 0.9453387901583167
+Cross-Validation Recall: 0.9448369565217393
+Test Accuracy: 0.9489685124864278
+Test Precision: 0.9495696426302883
+Test Recall: 0.9489685124864278
+
+15.Car Evaluation Dataset
+
+
+Cross-Validation Accuracy: 0.933401349866583
+Cross-Validation Precision: 1.0
+Cross-Validation Recall: 1.0
+
+
+16.Abalone Dataset
+
+
+Cross-Validation Accuracy: 0.9451086956521738
+Cross-Validation Precision: 0.9453387901583167
+Cross-Validation Recall: 0.9448369565217393
+
+
+17.Wheat Seeds Dataset
+
+
+Cross-Validation Accuracy: 0.9370967741935484
+Cross-Validation Precision: 0.9387668749261492
+Cross-Validation Recall: 0.9625
+
+
+
+
+
+
+18.Thyroid Disease Dataset
+
+
+Cross-Validation Accuracy: 0.9420741322723905
+Cross-Validation Precision: 0.9365958041384012
+Cross-Validation Recall: 0.9427549597038573
+Test Accuracy: 0.9362397820163487
+Test Precision: 0.9316017913611074
+Test Recall: 0.9362397820163487
+
+
+
+
+
+
+19.airbnb 
+
+Cross-Validation Accuracy: 0.9994120000878329
+Cross-Validation Precision: 0.9993663938666157
+Cross-Validation Recall: 0.9993608688082725
+Test Accuracy: 0.9992841803865425
+Test Precision: 0.9992856214375357
+Test Recall: 0.9992841803865425
+
+
+
+
+ 20.Spam Email Dataset
+
+Cross-Validation Accuracy: 0.9734051253293143
+Cross-Validation Precision: 0.9721498233908236
+Cross-Validation Recall: 0.9719546816676304
+Test Accuracy: 0.966183574879227
+Test Precision: 0.9660559461540551
+Test Recall: 0.966183574879227
+
+
+21.Forest Cover Type Dataset
+
+
+Cross-Validation Accuracy: 0.9439081438948506
+Cross-Validation Precision: 0.9442637866039079
+Cross-Validation Recall: 0.9441404967604445
+
+
